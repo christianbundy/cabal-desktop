@@ -8,7 +8,7 @@
 
 ### Download the latest release
 
-https://github.com/cabal-club/cabal-desktop/releases/
+https://github.com/cabal-club/cabal-desktop/releases/latest
 
 ### Build from source
 
